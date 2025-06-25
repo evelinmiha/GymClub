@@ -25,3 +25,10 @@ Built using Java and designed to run in IntelliJ IDEA.
 - IntelliJ IDEA (Community or Ultimate)
 
 
+Here are some screenshots of GymClub in action:
+
+[Main Window] mainGUImenu.jpg)
+[Main Menu] mainMenu.jpg)
+[Menu] menuFunctionality.jpg)
+[Display Members] displayMembers.jpg)
+[Member`s receipt] displayMemberReceipt.jpg)
