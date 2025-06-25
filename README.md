@@ -24,8 +24,4 @@ Built using Java and designed to run in IntelliJ IDEA.
 - Java 17 or newer
 - IntelliJ IDEA (Community or Ultimate)
 
-### Steps:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/gymclub.git
-   cd gymclub
+
