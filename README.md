@@ -29,20 +29,36 @@ Built using Java and designed to run in IntelliJ IDEA.
 
 Below are some screenshots demonstrating the GymClub Java application in action:
 
+
+
+
 ### 🧾 Main Interface
-mainGUImenu.jpg)
 
-### 👥 Main menu View
-[Main Menu] mainMenu.jpg)
+![Main Interface](mainGUImenu.jpg)
 
-### 👥  Menu Functionality
-[Menu] menuFunctionality.jpg)
+---
 
-### 👥 Member List View
-[Display Members] displayMembers.jpg)
+### 👥 Main Menu View
+
+![Main Menu](mainMenu.jpg)
+
+---
+
+### 🧩 Menu Functionality
+
+![Menu Functionality](menuFunctionality.jpg)
+
+---
+
+### 📋 Member List View
+
+![Member List](displayMembers.jpg)
+
+---
 
 ### 💳 Receipt Display
-[Member`s receipt] displayMemberReceipt.jpg)
+
+![Receipt Display](displayMemberReceipt.jpg)
 
 ---
 
